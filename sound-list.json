@@ -7,8 +7,8 @@
     album: "Bensound"s rock",
     genre: "Rock",
     date: "2014-05-20T07:00:00+00:00",
-    artwork: "https://www.bensound.com/bensound-img/happyrock.jpg", // Load artwork from the network
-    duration: 105 // Duration in seconds
+    artwork: "https://www.bensound.com/bensound-img/happyrock.jpg",
+    duration: 105,
   },
   {
     id: 2,
@@ -19,7 +19,7 @@
     genre: "Rock",
     date: "2014-05-20T07:00:00+00:00", 
     artwork: "https://www.bensound.com/bensound-img/punky.jpg", 
-    duration: 126
+    duration: 126,
   },
   {
     id: 3,
@@ -30,7 +30,7 @@
     genre: "Rock",
     date: "2014-05-20T07:00:00+00:00", 
     artwork: "https://www.bensound.com/bensound-img/actionable.jpg",
-    duration: 122
+    duration: 122,
   },
   {
     id: 4,
@@ -41,7 +41,7 @@
     genre: "Jazz",
     date: "2014-05-20T07:00:00+00:00", 
     artwork: "https://www.bensound.com/bensound-img/romantic.jpg", 
-    duration: 236
+    duration: 236,
   },
   {
     id: 5,
@@ -52,7 +52,7 @@
     genre: "Jazz",
     date: "2014-05-20T07:00:00+00:00", 
     artwork: "https://www.bensound.com/bensound-img/allthat.jpg",
-    duration: 146
+    duration: 146,
   },
   {
     id: 6,
@@ -63,7 +63,7 @@
     genre: "Jazz",
     date: "2014-05-20T07:00:00+00:00", 
     artwork: "https://www.bensound.com/bensound-img/love.jpg",
-    duration: 335
+    duration: 335,
   },
   {
     id: 7,
@@ -74,7 +74,7 @@
     genre: "Electronica",
     date: "2014-05-20T07:00:00+00:00", 
     artwork: "https://www.bensound.com/bensound-img/dreams.jpg",
-    duration: 310
+    duration: 310,
   },
   {
     id: 8,
@@ -85,6 +85,6 @@
     genre: "Electronica",
     date: "2014-05-20T07:00:00+00:00", 
     artwork: "https://www.bensound.com/bensound-img/dance.jpg",
-    duration: 177
-  }
+    duration: 177,
+  },
 ]
