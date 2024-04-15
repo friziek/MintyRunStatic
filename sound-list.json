@@ -1,16 +1,13 @@
 [
     {
-        "workID": 53,
-        "title": "작업",
-        "workerName": "테스터",
-        "sharedUserList": "테스터",
-        "progressType": 3,
-        "address": "인천광역시 부평구 부개로 11",
-        "coords": {
-            "altitude": "17.880752563476562",
-            "latitude": "37.499044198307566",
-            "longitude": "126.73793493223224"
-        },
-        "regDate": "2024. 4. 3. 오후 3:13:34"
+        "id": 1,
+        "url": "https://www.bensound.com/bensound-music/bensound-happyrock.mp3",
+        "title": "Happy Rock",
+        "artist": "Benjamin Tissot",
+        "album": "Bensound's rock",
+        "genre": "Rock",
+        "date": "2014-05-20T07:00:00+00:00",
+        "artwork": "https://www.bensound.com/bensound-img/happyrock.jpg",
+        "duration": 105
     }
 ]
